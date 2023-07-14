@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/c++/pj1/build",
+  "command": "/usr/bin/g++  -I/root/c++/pj1/include -g -std=gnu++20 -o CMakeFiles/pj1.dir/src/INT_128_256.cpp.o -c /root/c++/pj1/src/INT_128_256.cpp",
+  "file": "/root/c++/pj1/src/INT_128_256.cpp"
+},
+{
+  "directory": "/root/c++/pj1/build",
+  "command": "/usr/bin/g++  -I/root/c++/pj1/include -g -std=gnu++20 -o CMakeFiles/pj1.dir/src/main.cpp.o -c /root/c++/pj1/src/main.cpp",
+  "file": "/root/c++/pj1/src/main.cpp"
+}
+]
